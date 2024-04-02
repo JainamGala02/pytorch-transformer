@@ -1,6 +1,6 @@
 # Transformer from scratch using PyTorch
 
-This is an implementation of the Transformer model for machine translation using PyTorch. The Transformer model is a neural network architecture that has been highly successful in various natural language processing tasks, including machine translation.
+This is an implementation of the Transformer model for machine translation using PyTorch. The Transformer model is a neural network architecture that has been highly successful in various natural language processing tasks, including machine translation. This Transformer model is described in the paper "Attention Is All You Need" by Vaswani et al. (2017).
 
 ## Features
 
@@ -42,6 +42,3 @@ During training, the script will:
 - `model.py`: Implements the Transformer model architecture and its components.
 - `train.py`: The main script for training the model and handling validation and model saving.
 
-## Credits
-
-This implementation is based the tutorials by Umar Jamil on YouTube. This Transformer model is described in the paper "Attention Is All You Need" by Vaswani et al. (2017).
